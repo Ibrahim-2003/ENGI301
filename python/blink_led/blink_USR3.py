@@ -39,12 +39,17 @@ Blink will blink the USR3 LED on Pocket Beagle at 5Hz.
 import time
 import Adafruit_BBIO.GPIO as GPIO
 
+def blink(hertz):
+    """Blinks the USR3 LED at the specified hertz.
+        Returns nothing.
+    """
+    GPIO.output("USR3", GPIO.HIGH)
+    time.sleep(1/(hertz*2))
+    GPIO.output("USR3", GPIO.LOW)
+    time.sleep(1/(hertz*2))
 
 if __name__ == "__main__":
     GPIO.setup("USR3", GPIO.OUT)
     GPIO.output("USR3", GPIO.LOW)
     while True:
-        GPIO.output("USR3", GPIO.HIGH)
-        time.sleep(1/10)
-        GPIO.output("USR3", GPIO.LOW)
-        time.sleep(1/10)
+        blink(5)
