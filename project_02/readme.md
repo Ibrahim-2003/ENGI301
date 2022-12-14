@@ -1,5 +1,8 @@
 Github Link: https://github.com/Ibrahim-2003/ENGI301
 --------------------------------------
+Project Description:
+This is a PCB of an Etch-A-Sketch device. It includes an SPI display, 2 buttons, 2 potentiometers, 3 LEDs, a PocketBeagle, and a USB port.
+--------------------------------------
 Library Components:
 POCKETBEAGLE (device and footprint)
 POCKETBEAGLE_PWR (symbol)
