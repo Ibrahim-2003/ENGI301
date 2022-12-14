@@ -1,4 +1,4 @@
-Github Link: www.github.com
+Github Link: https://github.com/Ibrahim-2003/ENGI301
 --------------------------------------
 Library Components:
 POCKETBEAGLE (device and footprint)
