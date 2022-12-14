@@ -1,20 +1,19 @@
-Github Link: https://github.com/Ibrahim-2003/ENGI301
---------------------------------------
-Project Description:
+<h1>Github Link:</h1>https://github.com/Ibrahim-2003/ENGI301<br><br>
+<h1>Project Description:</h1>
 This is a PCB of an Etch-A-Sketch device. It includes an SPI display, 2 buttons, 2 potentiometers, 3 LEDs, a PocketBeagle, and a USB port.
---------------------------------------
-Library Components:
-POCKETBEAGLE (device and footprint)
-POCKETBEAGLE_PWR (symbol)
-POCKETBEAGLE_SIGNALS (symbol)
-POCKETBEAGLE_MISC (symbol)
-SPI_SCREEN (device, footprint, and symbol)
+<br><br>
+<h1>Library Components:</h1><br>
+POCKETBEAGLE (device and footprint)<br>
+POCKETBEAGLE_PWR (symbol)<br>
+POCKETBEAGLE_SIGNALS (symbol)<br>
+POCKETBEAGLE_MISC (symbol)<br>
+SPI_SCREEN (device, footprint, and symbol)<br>
 *** All other library components were imported from combo_lock.lbr ***
---------------------------------------
-MicroFab Login:
-USERNAME: isa1@rice.edu
-PASSWORD: deeznuts
+<br><br>
+<h1>MicroFab Login:</h1><br>
+USERNAME: isa1@rice.edu<br>
+PASSWORD: deeznuts<br>
 *** Note: Please excuse the silly password name, I had already created the account prior to knowing we were supposed to turn it in ***
---------------------------------------
-Price Quotes:
-*** Detailed in "MicroFab Price Quotes.csv" ***
+<br><br>
+<h1>Price Quotes:</h1><br>
+Detailed in "MicroFab Price Quotes.csv"
