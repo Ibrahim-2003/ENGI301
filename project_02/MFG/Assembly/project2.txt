@@ -1,4 +1,4 @@
-Partlist exported from E:/Rice/Rice F22/Rice-F22/Electrical Engineering/Eagle Libraries/project2.sch at 12/13/2022 11:55 AM
+Partlist exported from E:/Rice/Rice F22/Rice-F22/Electrical Engineering/Eagle Libraries/project2.sch at 12/13/2022 9:33 PM
 
 Qty Value         Device           Package        Parts                              Description                                    AVAILABILITY COMMENT  DESCRIPTION HOUSEPART MF   MP      MPN  PACKAGE POPULATE PRICE     PURCHASE-URL TOLERANCE         URL VOLTAGE        
 1   0.1           R_R0603          R0603          R5                                 RESISTOR, American symbol                                                                                                                                                                 

@@ -10,10 +10,5 @@ POCKETBEAGLE_MISC (symbol)<br>
 SPI_SCREEN (device, footprint, and symbol)<br>
 *** All other library components were imported from combo_lock.lbr ***
 <br><br>
-<h1>MicroFab Login:</h1><br>
-USERNAME: isa1@rice.edu<br>
-PASSWORD: deeznuts<br>
-*** Note: Please excuse the silly password name, I had already created the account prior to knowing we were supposed to turn it in ***
-<br><br>
 <h1>Price Quotes:</h1><br>
 Detailed in "MicroFab Price Quotes.csv"

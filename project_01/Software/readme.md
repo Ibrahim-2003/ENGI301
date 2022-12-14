@@ -1,3 +1,5 @@
+<h1>Hackster.io Link</h1>
+https://www.hackster.io/isa1/nir-glucometer-engi-301-3c6461
 <h1>Software Instructions</h1><br>
 <h2>Glucometer.py</h2>
 This is the main Python file for the PocketBeagle. This is still a work in progress since I rely on one of the dependencies to move forward (AS726X.py) with the rest of the code. To run this, make sure the Adafuit BBIO PocketBeagle library is installed and all hardware is properly connected.
